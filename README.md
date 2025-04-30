@@ -7,7 +7,7 @@
 
 ## 🔮 About Me
 
-Hello World! I am a college student at a university in Indonesia, I am a person who never gives up and always thinks of solutions to solve various problems elegantly and efficiently. I am committed to always learning and developing myself so that I can continue to compete and achieve better results. I will always try to make your dreams come true by becoming an elegant program code that exceeds your expectations.
+Hello World! I am a Undergraduate information System Student at University of Brawijaya, I am a person who never gives up and always thinks of solutions to solve various problems elegantly and efficiently. I am committed to always learning and developing myself so that I can continue to compete and achieve better results. I will always try to make your dreams come true by becoming an elegant program code that exceeds your expectations.
 
 ## 🚀 Skills & Technologies
 
