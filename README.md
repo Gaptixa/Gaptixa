@@ -1,72 +1,64 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/fe/e9/55/fee955a4c443424dd55cf8239698291f.gif" height="200px" width="100%" alt="Banner" />
+  <img src="https://i.pinimg.com/originals/4c/23/98/4c2398e6be397bb08b5cb70b2192d730.gif" alt="Banner" />
 </p>
 
-# Hi, I'm XanderID 👋
+<h1>Im Gaptix 👋</h1>
 
-## About Me
-Hello! I'm **Muhamad Mulqi** (also known as **XanderID**), a passionate software developer and student from Indonesia currently attending Sukabumi State High School. I enjoy exploring open-source projects. I'm always eager to learn new technologies and share my knowledge with the community.
+## 🔮 About Me
+
+Hello World! I am a college student at a university in Indonesia, I am a person who never gives up and always thinks of solutions to solve various problems elegantly and efficiently. I am committed to always learning and developing myself so that I can continue to compete and achieve better results. I will always try to make your dreams come true by becoming an elegant program code that exceeds your expectations.
 
 ## 🚀 Skills & Technologies
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EE4C2C?style=for-the-badge&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Android%20Java-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android Java" />
-  <img src="https://img.shields.io/badge/Shell%20Script-000000?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />
-  <img src="https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node-dot-js&logoColor=white" alt="NodeJS" />
+  <p align="center">
+    <a href="">
+      <img src="https://skillicons.dev/icons?i=atom,bootstrap,cpp,cloudflare,css,git,github,html,idea,java,md,linux,php,phpstorm,sublime,ubuntu,vercel,vscode" />
+    </a>
+  </p>
 </div>
 
 ## 🔥 Currently Learning
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; padding: 10px;">
-  <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="NextJS" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-239120?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <p align="center">
+    <a href="">
+      <img src="https://skillicons.dev/icons?i=androidstudio,dart,docker,dotnet,figma,flutter,go,js,jquery,kotlin,laravel,kubernetes,materialui,mongodb,mysql,nextjs,nginx,nodejs,nuxtjs,postgres,py,react,redis,sqlite,tailwind,ts,vue" />
+    </a>
+  </p>
 </div>
 
 ## GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/XanderID">
-    <img src="https://github-readme-stats.vercel.app/api?username=XanderID&show_icons=true&theme=github_dark_dimmed" alt="XanderID's GitHub Stats" />
+  <a href="https://github.com/Gaptixa">
+    <img src="https://github-readme-stats.vercel.app/api?username=Gaptixa&show_icons=true&theme=github_dark_dimmed" alt="XanderID's GitHub Stats" />
   </a>
-  <a href="https://github.com/XanderID">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XanderID&layout=compact&theme=github_dark_dimmed" alt="Top Languages" />
+  <a href="https://github.com/Gaptixa">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gaptixa&layout=compact&theme=github_dark_dimmed" alt="Top Languages" />
   </a>
 </div>
 
-## What I'm Learning
-- **Backend Development:** Diving deeper into Node.js, Laravel, and modern backend frameworks.
-- **Frontend Development:** Exploring React and Next.js for building dynamic and responsive web applications.
-
-## Connect with Me
+## 🎗️ Contact
 <div align="center">
-  <a href="mailto:xanderdevid@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-xanderdevid@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="mailto:gaffafadhlanulrozaq@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
-  <a href="https://discord.com/users/xanderid" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-xanderid-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <a href="https://discord.gg/VQ5CphZnYB" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://www.youtube.com/@XanderDevID" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-XanderDevID-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://www.instagram.com/gaffaaq/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
-  <a href="https://www.instagram.com/xanderdevid" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-xanderdevid-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://x.com/xanderdevid" target="_blank">
-    <img src="https://img.shields.io/badge/X-xanderdevid-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" />
+  <a href="https://www.linkedin.com/in/gaffa-fadhlanul-rozaq/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
   </a>
 </div>
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad."  
-> — *Cory House*
+> "Just like debugging code, understanding yourself takes time, effort, and a lot of trial and error."  
+> — *life*
 
 ---
-
-Thank you for visiting my GitHub profile! Feel free to reach out if you have any questions or if you'd like to collaborate on projects. Have an awesome day! 😊
