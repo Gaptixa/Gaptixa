@@ -7,7 +7,7 @@
 
 ## 🔮 About Me
 
-Hello World! I am a Bachelor of Information Systems student at Brawijaya University, I am a person who never gives up and always thinks of solutions to solve various problems elegantly and efficiently. I am committed to always learning and developing myself in order to continue to compete and achieve better results. I will always try to make your dreams come true by creating elegant program codes that exceed your expectations.
+Hello World! I am a Undergraduate of Information Systems student at Brawijaya University, I am a person who never gives up and always thinks of solutions to solve various problems elegantly and efficiently. I am committed to always learning and developing myself in order to continue to compete and achieve better results. I will always try to make your dreams come true by creating elegant program codes that exceed your expectations.
 
 ## 🚀 Skills & Technologies
 
