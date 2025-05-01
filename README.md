@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/4c/23/98/4c2398e6be397bb08b5cb70b2192d730.gif" alt="Banner" />
+  <img src="https://i.pinimg.com/originals/66/8f/bc/668fbc560f8ed6375b9f5f92aa59d3cd.gif" alt="Banner" />
 </p>
 
 <h1>Im Gaptix 👋</h1>
@@ -29,7 +29,7 @@ Hello World! I am a Undergraduate of Information Systems student at Brawijaya Un
   </p>
 </div>
 
-## GitHub Stats
+## 🎭 GitHub Stats
 
 <div align="center">
   <a href="https://github.com/Gaptixa">
