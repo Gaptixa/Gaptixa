@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/66/8f/bc/668fbc560f8ed6375b9f5f92aa59d3cd.gif" alt="Banner" />
+  <img src="" alt="Banner" />
 </p>
 
 <h1>Im Gaptix 👋</h1>
