@@ -1,6 +1,6 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Gaptixa/Gaptixa/refs/heads/main/GAPTIXA.png" alt="Banner" />
 </p>
 
 <h1>Im Gaptix 👋</h1>
