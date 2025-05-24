@@ -1,9 +1,9 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gaptixa/Gaptixa/refs/heads/main/GAPTIXA.png" alt="Banner" />
+<!--   <img src="https://raw.githubusercontent.com/Gaptixa/Gaptixa/refs/heads/main/GAPTIXA.png" alt="Banner" /> -->
 </p>
 
-<h1>Im Gaptix 👋</h1>
+<h1>Im Gaffa 👋</h1>
 
 ## 🔮 About Me
 
